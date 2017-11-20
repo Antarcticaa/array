@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define number 5
+#define number 5   //ºê 
 int main(){
 	int i;
 	int tensu[number];
